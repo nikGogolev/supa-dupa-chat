@@ -7,4 +7,4 @@ export const STATUSES = {
 	FAILURE: 'failure'
 };
 
-export const HOMEPAGE = "/gbCourse5Hw";
+export const HOMEPAGE = "/supa-dupa-chat";
