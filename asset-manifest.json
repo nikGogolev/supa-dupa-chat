@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/supa-dupa-chat/static/css/main.e338351f.chunk.css",
-    "main.js": "/supa-dupa-chat/static/js/main.a8487086.chunk.js",
-    "main.js.map": "/supa-dupa-chat/static/js/main.a8487086.chunk.js.map",
+    "main.js": "/supa-dupa-chat/static/js/main.9c047ca6.chunk.js",
+    "main.js.map": "/supa-dupa-chat/static/js/main.9c047ca6.chunk.js.map",
     "runtime-main.js": "/supa-dupa-chat/static/js/runtime-main.5f184fec.js",
     "runtime-main.js.map": "/supa-dupa-chat/static/js/runtime-main.5f184fec.js.map",
     "static/js/2.4d6bcedb.chunk.js": "/supa-dupa-chat/static/js/2.4d6bcedb.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.5f184fec.js",
     "static/js/2.4d6bcedb.chunk.js",
     "static/css/main.e338351f.chunk.css",
-    "static/js/main.a8487086.chunk.js"
+    "static/js/main.9c047ca6.chunk.js"
   ]
 }
