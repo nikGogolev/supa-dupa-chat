@@ -8,6 +8,7 @@ import ChatListContainer from '../ChatListContainer';
 import SendForm from '../SendForm';
 
 import { getChats } from '../../store/selectors/chatSelectors';
+import { HOMEPAGE } from '../../utils/constants';
 
 const useStyles = makeStyles((theme) => ({
 	root: {
@@ -40,7 +41,7 @@ function Chat(props) {
 
 	/*render*/
 	if (!!chatId && !chats[chatId]) {
-		return <Redirect to="/gbCourse5Hw/chats" />;
+		return <Redirect to={`${HOMEPAGE}/chats`} />;
 	}
 
 	return (
